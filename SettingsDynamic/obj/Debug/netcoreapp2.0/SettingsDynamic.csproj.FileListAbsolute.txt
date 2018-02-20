@@ -1,0 +1,11 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\bin\Debug\netcoreapp2.0\SettingsDynamic.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\bin\Debug\netcoreapp2.0\SettingsDynamic.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\bin\Debug\netcoreapp2.0\SettingsDynamic.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\bin\Debug\netcoreapp2.0\SettingsDynamic.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\obj\Debug\netcoreapp2.0\SettingsDynamic.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\obj\Debug\netcoreapp2.0\SettingsDynamic.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\obj\Debug\netcoreapp2.0\SettingsDynamic.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\obj\Debug\netcoreapp2.0\SettingsDynamic.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\bin\Debug\netcoreapp2.0\SettingsDynamic.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\obj\Debug\netcoreapp2.0\SettingsDynamic.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\SettingsDynamic\obj\Debug\netcoreapp2.0\SettingsDynamic.pdb

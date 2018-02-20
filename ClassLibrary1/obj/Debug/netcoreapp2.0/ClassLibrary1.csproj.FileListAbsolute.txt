@@ -1,0 +1,9 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\SettingsDynamic\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.pdb
